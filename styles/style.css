@@ -56,3 +56,64 @@ nav button {
   padding: 20px 35px;
   background-color: #000000;
 }
+/* why web development section  */
+.why-web-dev {
+  margin: 150px 150px 0px 150px;
+  background-color: rgba(13, 19, 33, 0.02);
+  border-radius: 10px;
+}
+.title-txt {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  padding-top: 80px;
+}
+.sub-title-txt {
+  margin: 0px 150px;
+  text-align: center;
+  color: #474747;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+}
+.content-box {
+  border-radius: 10px;
+  margin: 30px 100px 0px 100px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content-box-2 {
+  justify-content: left;
+}
+.txt-box {
+  margin: 50px;
+}
+.txt-box .txt-box-h4 {
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+.txt-box .txt-box-p {
+  width: 464px;
+  color: #474747;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1px;
+}
+.txt-box .txt-box-btn {
+  background-color: #ffffff;
+  color: #474747;
+  padding: 12px 27px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.img-box {
+  padding-right: 30px;
+}
+.img-box-2 {
+  padding-left: 30px;
+}
