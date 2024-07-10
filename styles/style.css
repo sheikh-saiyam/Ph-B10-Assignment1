@@ -143,3 +143,64 @@ nav button {
 .video{
   border-radius: 16px;
 }
+/* my next current section */
+.my-current-target {
+  margin: 150px 150px 0px 150px;
+}
+.my-current-target .title-text-3 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
+}
+.sub-title-text-3 {
+  margin: 0px 100px;
+  text-align: center;
+  color: #474747;
+  font-size: 18px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.card-container{
+    margin-top: 50px;
+    display: flex;
+}
+.card-box-1{
+    background-color:rgba(255, 76, 30, 0.05);
+    margin: 0px 10px;
+    width: 400px;
+    border-radius: 16px;
+    padding: 40px;
+}
+.card-box-2{
+    background-color:rgba(0, 76, 232, 0.05);
+    margin: 0px 10px;
+    width: 400px;
+    border-radius: 16px;
+    padding: 40px;
+}
+.card-box-3{
+    background-color:rgba(255, 223, 0, 0.05);
+    margin: 0px 10px;
+    width: 400px;
+    border-radius: 16px;
+    padding: 40px;
+}
+.card-container h4{
+  font-size: 24px;
+  font-weight:900;
+}
+.card-container p{
+  font-size: 16px;
+  color: #474747;
+  margin-top: 20px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+.card-container a{
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+}
