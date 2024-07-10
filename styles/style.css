@@ -208,7 +208,7 @@ nav button {
 .i-need-support{
   margin:150px 150px 0px 150px ;
   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
-  ,url(/assets/handshake.jpg);
+  ,url(../assets/handshake.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
