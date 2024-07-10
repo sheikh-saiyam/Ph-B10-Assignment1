@@ -254,3 +254,22 @@ nav button {
   font-weight: bolder;
   letter-spacing: 1px;
 }
+/* footer section */
+footer{
+  margin-top: 100px;
+  background-color:rgb(13, 19, 33, 0.03);
+  height: 120px;
+}
+footer .footer-box{
+  margin:150px 150px 0px 150px;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 0px;
+}
+footer .footer-box h2{
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+footer .footer-box .footer-img-box img{
+  padding: 0px 10px;
+}
