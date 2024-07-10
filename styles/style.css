@@ -204,3 +204,53 @@ nav button {
   font-size: 18px;
   font-weight: bold;
 }
+/* i need support section */
+.i-need-support{
+  margin:150px 150px 0px 150px ;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
+  ,url(/assets/handshake.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  height: 360px;
+  text-align: center;
+}
+.i-need-support h1{
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+  word-spacing: 8px;
+  letter-spacing: 1px;
+  padding-top: 80px;
+}
+.i-need-support p{
+  color:#ffffff ;
+  font-size: 16px;
+  line-height: 25px;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  margin: 0px 200px;
+}
+.i-need-support .input{
+  margin: 20px 0px;
+}
+.i-need-support .input input{
+  width: 500px;
+  padding: 20px 40px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+}
+.i-need-support .input button{
+  margin-left: 10px;
+  padding: 20px 30px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
